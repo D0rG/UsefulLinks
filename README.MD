@@ -21,6 +21,8 @@
 
 ## Общее ##
 * [METANIT.COM](https://metanit.com/ "Неплохие обучалки по разным языкам.")
+* [sololearn](https://www.sololearn.com/ "Курсы для нулевых. Приложуха на мобилу хорошенькая.")
 * [ru.code-basics](https://ru.code-basics.com/ "Курсы для нулвых. По разным языкам.")
 * [DeepL переводчик](https://www.deepl.com/translator "Переводчик.")
 * [More links](https://free-for.dev/ "Больше интересных бесплатных сервисов.")
+* [refactoring.guru](https://refactoring.guru/ru "Про рефакторинг.")
