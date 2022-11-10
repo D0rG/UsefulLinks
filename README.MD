@@ -9,6 +9,7 @@
 * [Unity Script Collection](https://github.com/michidk/Unity-Script-Collection "Колекция скриптов.")
 * [NuGet for Unity](https://github.com/GlitchEnzo/NuGetForUnity "NuGet For Unity")
 * [VR checklist](https://github.com/vittorioromeo/vr-game-checklist)
+* [Видосы о шейдерах](https://www.youtube.com/c/Acegikmo)
 
 ## SQL ##
 * [LearnDB](https://learndb.ru/ "Теория и сразу задачки на практику.")
