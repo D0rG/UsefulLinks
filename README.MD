@@ -25,5 +25,7 @@
 * [sololearn](https://www.sololearn.com/ "Курсы для нулевых. Приложуха на мобилу хорошенькая.")
 * [ru.code-basics](https://ru.code-basics.com/ "Курсы для нулвых. По разным языкам.")
 * [DeepL переводчик](https://www.deepl.com/translator "Переводчик.")
-* [More links](https://free-for.dev/ "Больше интересных бесплатных сервисов.")
 * [refactoring.guru](https://refactoring.guru/ru "Про рефакторинг.")
+* [Regex101](https://regex101.com/ "Регулярки и подсказки по ним.")
+* [Regexstorm](http://regexstorm.net/tester "Лучше с группировками работает.")
+* [More links](https://free-for.dev/ "Больше интересных бесплатных сервисов.")
