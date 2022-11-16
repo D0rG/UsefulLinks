@@ -3,6 +3,7 @@
 ## C# ##
 * [ULearn.me](https://ulearn.me/ "Очень хороший курс по C#, особенно для новичков.")
 * [stepik](https://stepik.org/course/4143 "Неплохой C# курс. Но ULearn лучше и полнее.")
+* [C# Coding Conventions](https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/coding-style/coding-conventions "C# Coding Conventions Microsoft")
 * [Google style guide](https://google.github.io/styleguide/csharp-style.html "Google Style Guide C#")
 
 ## Unity ##
